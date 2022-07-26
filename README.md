@@ -7,6 +7,7 @@ Inserted method :
 ------icon link------
 
 icon for show the project status : 
+
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectStatus/alpha.png
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectStatus/test.png
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectStatus/preview.png
@@ -14,6 +15,7 @@ https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectSt
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectStatus/release.png
 
 icon for show the project type : 
+
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectType/demo.png
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectType/framework.png
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectType/library.png
@@ -21,6 +23,7 @@ https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectTy
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/ProjectType/game.png
 
 icon for show the project supported platfrom : 
+
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/SupportPlatfrom/linux.png
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/SupportPlatfrom/macos.png
 https://raw.githubusercontent.com/MingHui1997/Github-project-icon/main/SupportPlatfrom/unix.png
