@@ -4,8 +4,8 @@ Inserted method :
 
 ------icon link------
 
-icon for show the projected status : 
+icon for show the project status : 
 
-icon for show the projected type : 
+icon for show the project type : 
 
 icon for show the project supported platfrom : 
